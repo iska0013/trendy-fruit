@@ -21,26 +21,30 @@ body {
   margin: 0;
 }
 
-.watermelon {
+.watermelon-color {
   background-color: #e97065;
 }
 
-h1 {
-  font-family: Gravitas One, cursive;
+.watermelon-font {
+ font-family: 'Rammetto One', cursive;
 }
 
 .starfruit {
   background-color: #fbd25e;
 }
 
+.starfruit-font {
+  font-family: 'Gravitas One', cursive;
+}
+
 .persimmon {
   background-color: #e86033;
 }
-
-
-
+.persimmon-font {
+  font-family: 'Comfortaa', cursive;
+}
 /*
-font-family: 'Gravitas One', cursive;
+
 font-family: 'Rammetto One', cursive;
 font-family: 'Comfortaa', cursive;
 */
